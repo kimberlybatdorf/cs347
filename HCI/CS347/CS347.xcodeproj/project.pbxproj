@@ -36,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1CFCF75D299E16E40028B0C9 /* britney-test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "britney-test.h"; sourceTree = "<group>"; };
 		94D2E142299C4B9700CFA103 /* CS347.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CS347.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		94D2E145299C4B9700CFA103 /* CS347App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CS347App.swift; sourceTree = "<group>"; };
 		94D2E147299C4B9700CFA103 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -106,6 +107,7 @@
 				94D2E153299C4B9900CFA103 /* Info.plist */,
 				94D2E150299C4B9900CFA103 /* CS347.xcdatamodeld */,
 				94D2E14B299C4B9900CFA103 /* Preview Content */,
+				1CFCF75D299E16E40028B0C9 /* britney-test.h */,
 			);
 			path = CS347;
 			sourceTree = "<group>";
